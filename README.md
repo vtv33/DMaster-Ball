@@ -16,4 +16,4 @@ image ref: \
 https://www.freepik.com/free-vector/point-coins-background_12460087.htm#page=1&query=game%20background&position=8 \
 https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059 \
 https://assetstore.unity.com/packages/2d/textures-materials/deep-space-skybox-pack-11056 \
-https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014 \
+https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
